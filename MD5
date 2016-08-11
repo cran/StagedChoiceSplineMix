@@ -1,0 +1,12 @@
+f92dd5fa120c2676de1ac073f9c02ebf *DESCRIPTION
+f0dd0a51202e32c4e2e1688eb76c8f4a *NAMESPACE
+60facf2a69484b2c57282fdd72de332c *R/StagedChoiceSplineMix.r
+034b4410d3ced4ae875a4461c091f1a8 *R/bs.se.r
+2e0499b1ab2c54eb9187eab0daa435b8 *R/gen.init.r
+444f3b81dc78bc5b426e0922faca54cb *R/move.knot.r
+2bb64d60ab9bfd54710b9692cc78a115 *R/twostglogitregmixEM.r
+973dfe229512c2bf792a90e0bbeddb6b *man/StagedChoiceSplineMix.Rd
+54a966b9f9fc49c26d5409e334bd6be3 *man/bs.se.Rd
+0d6763a818668100283bb2face5743a3 *man/gen.init.Rd
+a1f6d32f20f4a3f9806faa34af11b10b *man/move.knot.Rd
+ccffabe42bcf6d0af19cceb9907e7559 *man/twostglogitregmixEM.Rd
